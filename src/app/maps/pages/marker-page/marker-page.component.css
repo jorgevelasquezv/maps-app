@@ -1,0 +1,26 @@
+#map{
+  height: 100vh;
+  width: 100vw;
+}
+
+.list-group{
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  cursor: pointer;
+}
+
+#addMarker{
+  position: fixed;
+  bottom: 30px;
+  right: 20px;
+}
+
+figure{
+  width: 20px;
+  margin-left: 5px;
+  margin-bottom: 0px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
